@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**User1234-Code-maker/User1234-Code-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Bogdan**, an AI-first developer, system analyst, project manager and sales manager.
 
-Here are some ideas to get you started:
+I build and ship products from idea to production — from figuring out **what needs to be built** and designing the system to writing code, integrating services and managing delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is **TypeScript, React, NestJS, PostgreSQL, Redis and Docker**.
+
+I use AI as a core part of my workflow. I like **vibe coding**, rapid prototyping, automation and turning messy ideas into working systems.
+
+I’m especially interested in the intersection of **technology, business and product** — I enjoy both building things and understanding why they should be built in the first place.
+
+### What I do
+
+* 💻 **Development** — web apps, APIs, automation & integrations
+* 🧠 **System Analysis** — requirements, architecture & business logic
+* 🚀 **Project Management** — planning, coordination & delivery
+* 💼 **Sales** — understanding clients, solutions & business needs
+* 🤖 **AI-first development** — using AI throughout the development process
+
+### Tech I work with
+
+`TypeScript` `React` `NestJS` `PostgreSQL` `Redis` `Docker` `REST API` `Git` `AI`
+
+### Currently
+
+Building things, learning new technologies and looking for interesting problems to solve.
+
+If you have an interesting idea or project — **let's talk.**
