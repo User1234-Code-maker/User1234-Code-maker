@@ -1,29 +1,20 @@
-# Hey there 👋
+<div align="center">
+Hi, I'm Bogdan 👋
 
-I'm **Bogdan**, an AI-first developer, system analyst, project manager and sales manager.
+Frontend developer and systems analyst. I build interfaces, internal tools and bots, and I'm learning full stack by building real projects.
 
-I build and ship products from idea to production — from figuring out **what needs to be built** and designing the system to writing code, integrating services and managing delivery.
+</div>
+🔧 What I work with
 
-My main stack is **TypeScript, React, NestJS, PostgreSQL, Redis and Docker**.
+Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение Показать изображение
 
-I use AI as a core part of my workflow. I like **vibe coding**, rapid prototyping, automation and turning messy ideas into working systems.
+🚀 Featured project
+<a href="https://github.com/User1234-Code-maker/game-studio-site"> <img src="https://raw.githubusercontent.com/User1234-Code-maker/game-studio-site/main/screenshots/home.jpg" alt="Game studio website" width="640"> </a>
 
-I’m especially interested in the intersection of **technology, business and product** — I enjoy both building things and understanding why they should be built in the first place.
+Game Studio Website is a multi-page site that started as a hand-coded layout from a Figma mockup. It now has a React + TypeScript front end, an Express API, PostgreSQL storage, Stripe test payments, and CI with unit, API and end-to-end tests.
 
-### What I do
+Live demo · Source code
 
-* 💻 **Development** — web apps, APIs, automation & integrations
-* 🧠 **System Analysis** — requirements, architecture & business logic
-* 🚀 **Project Management** — planning, coordination & delivery
-* 💼 **Sales** — understanding clients, solutions & business needs
-* 🤖 **AI-first development** — using AI throughout the development process
-
-### Tech I work with
-
-`TypeScript` `React` `NestJS` `PostgreSQL` `Redis` `Docker` `REST API` `Git` `AI`
-
-### Currently
-
-Building things, learning new technologies and looking for interesting problems to solve.
-
-If you have an interesting idea or project — **let's talk.**
+📌 Right now
+Working on ERP front end and internal tools at Zero to Infinity
+Learning backend, databases and deployment by shipping side projects
