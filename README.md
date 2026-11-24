@@ -5,11 +5,11 @@
 </picture>
 
 <p align="center">
-  <a href="https://user1234-code-maker.github.io/1234-site/"><img src="https://img.shields.io/badge/Portfolio-7c5cff?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://t.me/OpalineDream"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.linkedin.com/in/bogdankorzun/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:bogdan.korzun2003@gmail.com"><img src="https://img.shields.io/badge/Email-1e2a6b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://soundcloud.com/user1234user1234user1234"><img src="https://img.shields.io/badge/SoundCloud-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
+  <a href="https://user1234-code-maker.github.io/1234-site/"><img src="assets/badges/link-portfolio.png" alt="Portfolio" width="119" height="38"></a>
+  <a href="https://t.me/OpalineDream"><img src="assets/badges/link-telegram.png" alt="Telegram" width="123" height="38"></a>
+  <a href="https://www.linkedin.com/in/bogdankorzun/"><img src="assets/badges/link-linkedin.png" alt="LinkedIn" width="119" height="38"></a>
+  <a href="mailto:bogdan.korzun2003@gmail.com"><img src="assets/badges/link-email.png" alt="Email" width="98" height="38"></a>
+  <a href="https://soundcloud.com/user1234user1234user1234"><img src="assets/badges/link-soundcloud.png" alt="SoundCloud" width="147" height="38"></a>
 </p>
 
 ## About
@@ -76,40 +76,40 @@ The code is private, so here is what these products look like. Screens are redra
   <tr>
     <td><b>Front end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Vue_3-42b883?logo=vuedotjs&logoColor=white" alt="Vue">
-      <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb" alt="React">
-      <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white" alt="Vite">
-      <img src="https://img.shields.io/badge/Tailwind-0f172a?logo=tailwindcss&logoColor=38bdf8" alt="Tailwind">
-      <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572b6?logo=css3&logoColor=white" alt="CSS3">
+      <img src="assets/badges/vue.png" alt="Vue" width="85" height="28">
+      <img src="assets/badges/react.png" alt="React" width="87" height="28">
+      <img src="assets/badges/typescript.png" alt="TypeScript" width="120" height="28">
+      <img src="assets/badges/vite.png" alt="Vite" width="74" height="28">
+      <img src="assets/badges/tailwind.png" alt="Tailwind" width="103" height="28">
+      <img src="assets/badges/html.png" alt="HTML5" width="87" height="28">
+      <img src="assets/badges/css.png" alt="CSS3" width="77" height="28">
     </td>
   </tr>
   <tr>
     <td><b>Back end</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-5fa04e?logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
-      <img src="https://img.shields.io/badge/NestJS-e0234e?logo=nestjs&logoColor=white" alt="NestJS">
-      <img src="https://img.shields.io/badge/Telegram_bots-26a5e4?logo=telegram&logoColor=white" alt="Telegram">
+      <img src="assets/badges/node.png" alt="Node.js" width="99" height="28">
+      <img src="assets/badges/express.png" alt="Express" width="103" height="28">
+      <img src="assets/badges/nestjs.png" alt="NestJS" width="96" height="28">
+      <img src="assets/badges/telegram-bots.png" alt="Telegram" width="143" height="28">
     </td>
   </tr>
   <tr>
     <td><b>Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/Prisma-2d3748?logo=prisma&logoColor=white" alt="Prisma">
-      <img src="https://img.shields.io/badge/Redis-dc382d?logo=redis&logoColor=white" alt="Redis">
-      <img src="https://img.shields.io/badge/ClickHouse-151515?logo=clickhouse&logoColor=faff69" alt="ClickHouse">
+      <img src="assets/badges/postgresql.png" alt="PostgreSQL" width="129" height="28">
+      <img src="assets/badges/prisma.png" alt="Prisma" width="95" height="28">
+      <img src="assets/badges/redis.png" alt="Redis" width="87" height="28">
+      <img src="assets/badges/clickhouse.png" alt="ClickHouse" width="125" height="28">
     </td>
   </tr>
   <tr>
     <td><b>Quality and delivery</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Playwright-2ead33?logo=playwright&logoColor=white" alt="Playwright">
-      <img src="https://img.shields.io/badge/Vitest-6e9f18?logo=vitest&logoColor=white" alt="Vitest">
-      <img src="https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="assets/badges/playwright.png" alt="Playwright" width="119" height="28">
+      <img src="assets/badges/vitest.png" alt="Vitest" width="86" height="28">
+      <img src="assets/badges/docker.png" alt="Docker" width="96" height="28">
+      <img src="assets/badges/github-actions.png" alt="GitHub Actions" width="150" height="28">
     </td>
   </tr>
 </table>
